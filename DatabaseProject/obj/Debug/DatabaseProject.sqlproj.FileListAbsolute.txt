@@ -1,0 +1,10 @@
+E:\GitCodeCheckout\DatabaseProject\bin\Debug\DatabaseProject.dacpac
+E:\GitCodeCheckout\DatabaseProject\bin\Debug\DatabaseProject.dll
+E:\GitCodeCheckout\DatabaseProject\bin\Debug\DatabaseProject.pdb
+E:\GitCodeCheckout\DatabaseProject\obj\Debug\DatabaseProject.sqlproj.AssemblyReference.cache
+E:\GitCodeCheckout\DatabaseProject\obj\Debug\DatabaseProject.dll
+E:\GitCodeCheckout\DatabaseProject\obj\Debug\DatabaseProject.pdb
+E:\GitCodeCheckout\DatabaseProject\obj\Debug\Model.xml
+E:\GitCodeCheckout\DatabaseProject\obj\Debug\refactor.xml
+E:\GitCodeCheckout\DatabaseProject\obj\Debug\postdeploy.sql
+E:\GitCodeCheckout\DatabaseProject\obj\Debug\predeploy.sql

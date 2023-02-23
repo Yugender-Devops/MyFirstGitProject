@@ -1,0 +1,2 @@
+﻿CREATE USER [AEZION\Yuge.jana] FOR LOGIN [AEZION\Yuge.jana];
+
