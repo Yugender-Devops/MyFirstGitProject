@@ -4,7 +4,8 @@
     [VersionDate]         DATETIME      NOT NULL,
     [ModifiedDate]        DATETIME      CONSTRAINT [DF_BuildVersion_ModifiedDate] DEFAULT (getdate()) NULL,
     [Test]                NCHAR (10)    NULL,
-    [YJ]                  NCHAR (10)    NULL
+    [YJ]                  NCHAR (10)    NULL,
+    [TestABC]             NCHAR (10)    Null
 );
 
 
